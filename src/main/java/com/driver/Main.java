@@ -1,3 +1,5 @@
+package com.driver;
+
 public class Main {
     
     public static class Product {
@@ -16,6 +18,8 @@ public class Main {
             return x * y;
         }
     }
+
+
 
     public static void main(String[] args) {
         // Task 2: Create object of Product in Main function called p
