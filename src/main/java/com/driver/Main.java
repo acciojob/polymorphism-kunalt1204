@@ -22,6 +22,7 @@ public class Main {
 
 
 
+
     public static void main(String[] args) {
         // Task 2: Create object of Product in Main function called p
         Product p = new Product();
